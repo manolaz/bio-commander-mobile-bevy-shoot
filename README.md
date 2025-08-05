@@ -1,15 +1,24 @@
-# Kataster
+# Bio Commander
 
-A minimalist single screen space shooter developed in the Rust language with the Bevy game engine.
+Bio Commander is a mobile game built using the Bevy game engine and integrated with Solana blockchain technology. Players take on the role of commanders of the human immune system, fighting against viruses to protect the body.
 
-This is a 'super-example' or 'micro-game' for the Bevy game engine, that can be used by beginners to get some starting points for their own game.
+## Features
 
-It includes use of game states, menu UI, HUD UI, collision detection, pause/resume, shader background, particle effects.
+- **Immune System Strategy**: Command units like white blood cells and antibodies to fight off viruses.
+- **Blockchain Integration**: Store player progress and enable in-game purchases using Solana tokens.
+- **Mobile Optimization**: Smooth performance and touch controls for mobile devices.
+- **Rich Visuals and Audio**: Stunning graphics and immersive sound effects.
 
-It showcases some other commonplace bevy plugins, [avian2d](https://crates.io/crates/avian2d) for physics, [leafwing-input-manager](https://crates.io/crates/leafwing-input-manager) for game inputs, [bevy_hanabi](https://crates.io/crates/bevy_hanabi) for particle effects.
+## Technology Stack
 
-![](media/Kataster_demo.gif)
+- **Game Engine**: Bevy (Rust-based game engine).
+- **Blockchain**: Solana for mobile.
+- **Programming Language**: Rust.
 
-## Bevy dependencies
+## Authors
 
-Up to date for bevy 0.16
+- Tristan Nguyen <trungupdate@gmail.com>
+
+## License
+
+This project is licensed under the terms of the LICENSE.txt file.
